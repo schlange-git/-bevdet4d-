@@ -12,9 +12,9 @@ https://www.bilibili.com/video/BV1s54y1n7Ev/?spm_id_from=333.337.search-card.all
 https://www.bilibili.com/video/BV1Dm4y147eM/?spm_id_from=333.337.search-card.all.click&vd_source=4b8e5a437540b388abe0e0e23e80b583
 
 docker的逻辑
+```
 ![image](https://github.com/user-attachments/assets/d98c090a-c2e5-4a7b-b6bf-88bc6aee95d4)
-
-
+```python
 
 创建下面的bash文件,并且运行(在本地环境不是docker中):
 
